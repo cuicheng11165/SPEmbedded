@@ -1,0 +1,24 @@
+# Ignore build output
+bin/
+obj/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Ignore VS Code settings
+.vscode/
+
+# Ignore OS files
+.DS_Store
+Thumbs.db
+
+# Ignore token and admin files
+ListContainer/SPEmbededTest/token.txt
+ListContainer/SPEmbededTest/admin.txt
+
+# Ignore other common files
+*.log
+*.tmp
+
+.vs
